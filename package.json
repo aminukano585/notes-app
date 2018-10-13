@@ -1,0 +1,26 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "a simple notes app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AminuSufi585/notes-app.git"
+  },
+  "keywords": [
+    "notes",
+    "d3"
+  ],
+  "author": "Aminu Kano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AminuSufi585/notes-app/issues"
+  },
+  "homepage": "https://github.com/AminuSufi585/notes-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
